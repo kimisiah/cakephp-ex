@@ -1,7 +1,7 @@
 <?php
 /**
  * Requests collector.
- * Logs logs logs logs
+ * Logs2 logs2 logs2 logs2
  *
  *  This file collects requests if:
  *	- no mod_rewrite is available or .htaccess files are not supported
